@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "title": "Engineer",
+        "price": 100,
+        "category": "Technology",
+        "image": "image1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "title": "Designer",
+        "price": 200,
+        "category": "Art",
+        "image": "image2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "title": "Writer",
+        "price": 50,
+        "category": "Literature",
+        "image": "image3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "David Lee",
+        "title": "Photographer",
+        "price": 300,
+        "category": "Photography",
+        "image": "image4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Emma Watson",
+        "title": "Musician",
+        "price": 150,
+        "category": "Music",
+        "image": "image5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Frank Martin",
+        "title": "Chef",
+        "price": 75,
+        "category": "Food",
+        "image": "image6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Grace Kim",
+        "title": "Scientist",
+        "price": 500,
+        "category": "Science",
+        "image": "image7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Henry Adams",
+        "title": "Athlete",
+        "price": 250,
+        "category": "Sports",
+        "image": "image8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ivy Nelson",
+        "title": "Doctor",
+        "price": 400,
+        "category": "Healthcare",
+        "image": "image9.jpg"
+    }
+]
